@@ -37,6 +37,14 @@
       "/home/sathya/Documents/school/spring/lab5-choretracker-starter-master/app/models/child.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          3,
+          2,
+          null,
+          1,
+          3,
           null,
           null
         ]
@@ -48,15 +56,13 @@
           null
         ]
       },
-      "/home/sathya/Documents/school/spring/lab5-choretracker-starter-master/app/models/task.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
       "/home/sathya/Documents/school/spring/lab5-choretracker-starter-master/app/models/chore.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/sathya/Documents/school/spring/lab5-choretracker-starter-master/app/models/task.rb": {
         "lines": [
           0,
           0
@@ -348,6 +354,6 @@
         }
       }
     },
-    "timestamp": 1612725754
+    "timestamp": 1612740820
   }
 }
